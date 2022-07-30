@@ -1,3 +1,4 @@
+package problem;
 public class problem7 {
   static int fib(int n) {
     if(n==0) {

@@ -1,3 +1,4 @@
+package problem;
 public class problem2 {
   static int getTotalPage(int m, int n) {
     if(m%n==0){

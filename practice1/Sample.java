@@ -3,12 +3,11 @@ package practice1;
 public class Sample {
 
   public static void main(String[] args) {
-    Animal cat = new Animal();
-    cat.setName("body");
-    Dog dog = new Dog();
-    dog.setName("happy");
-    System.out.println(cat.name);
-    System.out.println(dog.name);
+    HouseDog jjj = new HouseDog("jjj");
+    HouseDog good = new HouseDog(1);
+    System.out.println(jjj.name);
+    System.out.println(good.name);
+
   }
   
 }

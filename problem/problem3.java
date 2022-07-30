@@ -1,3 +1,4 @@
+package problem;
 public class problem3 {
   static int getDigitCount(int n) {
     String s ="" +n; //문자열로 바꾸기

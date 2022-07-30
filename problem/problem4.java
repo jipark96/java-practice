@@ -1,3 +1,4 @@
+package problem;
 public class problem4 {
   static int getExcludeSpaceCount(String s) {
     int result = 0;
