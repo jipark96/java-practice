@@ -1,5 +1,5 @@
 //파라미터 값이 없는 메소드
-package Method2;
+package Method1.Method2;
 
 public class Random {
   public static void main(String[] args) {

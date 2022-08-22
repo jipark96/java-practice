@@ -1,4 +1,4 @@
-package Method5;
+package Method1.Method5;
 
 public class Pork {
   public static void main(String[] args) {

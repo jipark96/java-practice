@@ -1,4 +1,4 @@
-package Method4;
+package Method1.Method4;
 
 public class ControlFlow {
   public static void main(String[] args) {

@@ -1,5 +1,5 @@
 // return이 없는 void 메소드
-package Method3;
+package Method1.Method3;
 
 public class Ramyun {
   public static void main(String[] args) {
